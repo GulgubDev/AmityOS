@@ -15,3 +15,7 @@ Everything runs inside a simulated environment.
 ## Requirements
 - .NET 8.0 or later
 - Windows, Linux or macOS terminal
+
+
+Note from the developer:
+This is less "live-update software" and more "passion-project", so don't expect fast updates, or bug fixes within the short-term.
