@@ -1,5 +1,5 @@
 # AmityOS
-Simple mock-kernel OS coded in C# for simulation and testing. Comes pre-built with a fully implemented command system, simple networking and a work-in-progress scriptor using a custom language, alongside having a full filesystem that runs off of memory.
+Simple mock-kernel OS coded in C# for simulation and testing. Comes pre-built with a fully implemented command system, simple networking and a now fully-implemented scriptor using a custom language (APL), alongside having a full filesystem that runs off of memory.
 
 ##  About Antivirus Warnings
 
